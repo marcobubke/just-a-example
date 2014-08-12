@@ -3,5 +3,6 @@
     "ShortDescription" : "It is doing nothing but that it is doing very well!",
     "DownloadLocation" : "https://api.github.com/repos/marcobubke/just-a-example/zipball/e7b427362a01356e38ec7c85c4170397d00d8f03",
     "Icon" : "core.png",
-    "Id" : "XADSKNFFNCIUC"
+    "Id" : "XADSKNFFNCIUC",
+    "Tags" : "core basic tutorial beginner"
 }
